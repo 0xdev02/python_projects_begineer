@@ -1,0 +1,3 @@
+sucessfully merged ['1.pdf', '2.pdf'] check "Merged.pdf"
+
+Process finished with exit code 0
